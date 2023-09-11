@@ -1,0 +1,15 @@
+.principalarea{
+    background: white;
+    padding: 50px 0;
+    text-align: center;
+}
+.gpap{
+    width: 80%;
+}
+.principalarea p{
+    text-align: justify;
+}
+.principalarea p:last-child{
+    text-align: right;
+}
+

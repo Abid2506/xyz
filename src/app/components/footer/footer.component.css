@@ -1,0 +1,25 @@
+.footerarea{
+    background: black;
+    color: white;
+    padding:50px 0;
+}
+.footerarea h4{
+    color: white;
+    border-left: solid 5px white ;
+    padding-left: 10px;
+}
+.footerarea p{
+    color: #f2c38b;
+}
+.footerarea ul{
+    color: #d36f34;
+    list-style: none;
+    margin:0;
+    padding:0
+}
+.footerarea ul li{
+    transition: all 2s;
+}
+.footerarea ul li:hover{
+    transform: translate(10px);
+}
